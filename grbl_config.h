@@ -28,8 +28,6 @@
 #define N_DECIMAL_RATEVALUE_MM    0 // Rate or velocity value in mm/min
 #define N_DECIMAL_SETTINGVALUE    3 // Decimals for floating point setting values
 
-#define MESSAGE_PROBE_COORDINATES // Enabled by default. Comment to disable.
-
 #define COREXY
 
 #define SAFETY_DOOR_SPINDLE_DELAY 4000
